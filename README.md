@@ -2,7 +2,10 @@
 
 Team BLTV - NepTune
 
-Presentation: https://drive.google.com/file/d/1kJ6wtgNmoQM2aAvHzqf3z-Xgv-drHmrP/view
+You can view our submitted presentation [here](https://drive.google.com/file/d/1kJ6wtgNmoQM2aAvHzqf3z-Xgv-drHmrP/view).
+
+<img width="1293" alt="image" src="https://user-images.githubusercontent.com/59011010/234118934-7cb47625-a35c-4732-adbd-3737cff325fb.png">
+
 Kaggle: https://www.kaggle.com/competitions/bizinnovate-2023/overview
 
 ## Motivation
